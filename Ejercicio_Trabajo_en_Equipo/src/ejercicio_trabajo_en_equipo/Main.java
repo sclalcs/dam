@@ -22,6 +22,7 @@ public class Main {
         System.out.println("Esto es para el repositorio remoto");
         System.out.println("Esto es otro para el repositorio remoto");
         System.out.println("Mandar repositorio desde proyecto");
+        System.out.println("Mandar pull desde repositorio en GitHub.com");
         
         
     }
