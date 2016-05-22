@@ -15,9 +15,9 @@ public class CCuenta {
     private double tipoInterés;
 
 
-    //public CCuenta()
-   // {
-   // }
+   public CCuenta()
+   {
+   }
 
     public CCuenta(String nom, String cue, double sal, double tipo)
     {
