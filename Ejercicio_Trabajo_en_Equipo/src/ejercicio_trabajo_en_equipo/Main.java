@@ -25,5 +25,7 @@ public class Main {
         System.out.println("Mandar pull desde repositorio en GitHub.com");
         System.out.println("nuevo Clone del proyecto, add, commit y push");
         System.out.println("nuevo Clone y rama nueva");
+        System.out.println("segunda rama nueva add commit y push");
+        
     }
 }
