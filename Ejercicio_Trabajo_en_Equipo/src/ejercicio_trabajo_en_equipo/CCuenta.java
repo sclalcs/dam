@@ -14,9 +14,11 @@ public class CCuenta {
     private double saldo;
     private double tipoInterés;
 
-
+    
+    
    public CCuenta()
    {
+       System.out.println("Esto desde clase");
    }
 
     public CCuenta(String nom, String cue, double sal, double tipo)
